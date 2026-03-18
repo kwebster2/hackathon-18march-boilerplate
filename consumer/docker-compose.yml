@@ -2,4 +2,4 @@ services:
   consumer-agent:
     build: .
     ports:
-      - "8001:8001"
+      - "8000:8000"
